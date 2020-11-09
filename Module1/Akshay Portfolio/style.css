@@ -1,0 +1,25 @@
+
+            h2{
+                color:blue
+            }
+            *{
+                border:1px solid black
+            }
+            body{
+                background-color:beige ;
+            }
+            .header{
+                display:flex;
+                justify-content: space-between;
+                font-size:22px;
+                color:red
+            }
+            .menu{
+              align-items: flex-start;
+                flex-wrap: wrap-reverse;
+            }
+            .imgs{
+                display:flex;
+                justify-content: space-evenly;
+                background-color: skyblue
+            }
